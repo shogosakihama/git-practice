@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>Failure</div>
-    <div>Let's go!</div>
+    <div>Test</div>
+    <div>new branch</div>
   </div>
 </template>
